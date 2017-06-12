@@ -1,0 +1,28 @@
+/**
+ * Place your custom styles here.
+ */
+.block-title{
+    font-size: 10px; 
+}   
+
+
+name navbar-brand{
+    font-size: 40px;
+}
+    
+a{
+    color: rgb(80, 69, 123);
+        font-size: 20px;
+}
+
+li{
+    color: rgb(80, 69, 123);
+}
+
+data-contextual-id{
+    color: rgb(80, 69, 123);
+}
+
+.col-sm-3{
+    background-color: #E7CAFF;
+}
